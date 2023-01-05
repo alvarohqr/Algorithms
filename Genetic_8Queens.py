@@ -1,5 +1,4 @@
 #Problema 8 Reinas con algoritmo genetico
-
 import random
 
 def random_cromosoma(size): 
